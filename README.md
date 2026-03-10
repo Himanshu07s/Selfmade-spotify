@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-![Spotify Preview](playing.gif)
+spotify_logo-1759471_1280.webp
 
 A Spotify-inspired music player built using **HTML, CSS and JavaScript**.
 
